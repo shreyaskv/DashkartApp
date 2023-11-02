@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It is an application for automated checkout at superstores using IoT
+
 ## Available Scripts
 
 In the project directory, you can run:
